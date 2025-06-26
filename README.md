@@ -1,2 +1,2 @@
 # selfCoding
-learning, soding and improving
+learning, coding and improving
